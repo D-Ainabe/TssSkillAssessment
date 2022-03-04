@@ -1,6 +1,7 @@
 body {
   padding-left: 75px;
   padding-right: 50px;
+  padding-bottom: 50px;
 }
 .heading:before {
   background-color: rgb(100, 189, 228);
